@@ -14,6 +14,7 @@ public class User {
 	}
 	
 	public String getName() {
+		System.out.println("test2");
 		return name;
 	}
 	public void setName(String name) {
